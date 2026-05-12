@@ -1,4 +1,4 @@
-# 
+# exclusive Automation Script for scalping bot for derivatives | latency-optimization + scalping is the best scalping bot for derivatives, featuring latency-optimization and
 
 
 
